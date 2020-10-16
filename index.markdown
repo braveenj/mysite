@@ -4,3 +4,6 @@
 
 layout: page
 ---
+
+# "Adding my pic and defineing size"
+<img src="assets/images/thumbnail_image.png" alt="drawing" width="200"/>
